@@ -34,4 +34,3 @@ export default [
   },
   // You can add other configurations for JavaScript files or other purposes
 ];
- 
